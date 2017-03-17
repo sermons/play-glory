@@ -1,4 +1,4 @@
-# Play for the Glory of God
+# Play for the Glory of God (2/2)
 ## Matthew 11:28-30
 
 [![Build status](https://travis-ci.org/sermons/work-glory.svg)](https://travis-ci.org/sermons/work-glory)
