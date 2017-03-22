@@ -13,7 +13,7 @@
 ## Work for the Glory of God
 1. Aspire to be a **fool**, not a professional
 1. Work to train your **heart**
-1. Toil for God's kingdom by resting in His **victory**
+1. Toil for God's **kingdom** <br/> by resting in His **victory**
 
 >>>
 + Pitfall: snare of **Professionalism**
@@ -30,15 +30,15 @@
 
 ---
 <!-- .slide: data-background="white" -->
-## Your highest joy is to glorify God.
+## Your highest **joy** <br/> is to glorify God.
 <!-- .element: style="text-align:left" -->
 <p>&nbsp;</p>
 
-## Clear your calendar.
-<!-- .element: style="text-align:left" -->
+## **Clear** your calendar.
+<!-- .element: style="text-align:right" -->
 <p>&nbsp;</p>
 
-## Wake up to Christ’s imminent return; <br/> Rest in His care.
+## **Wake up** to Christ’s return; <br/> **Rest** in His care.
 <!-- .element: style="text-align:left" -->
 
 ---
@@ -68,7 +68,7 @@ you are **mine** ...
 </div>
 
 ---
-Fear not, for I am with you; I will ...
+Fear not, for I am **with** you; I will ...
 
 Bring my **sons** from afar and <br/>
 my **daughters** from the end of the earth,
@@ -88,17 +88,17 @@ whom I **formed** and made.”
 1. **The Highest Joy**
 
 ---
-**Bless** the Lord, O my soul,
+**Bless** the Lord, O my soul, <br/>
 and forget not all his **benefits**,
 
-who **forgives** all your iniquity,
+who **forgives** all your iniquity, <br/>
 who **heals** all your diseases,
 
-who **redeems** your life from the pit,
+who **redeems** your life from the pit, <br/>
 who **crowns** you with steadfast love and mercy,
 
-who **satisfies** you with good
-so that your **youth** is renewed like the eagle's
+who **satisfies** you with good so that <br/>
+your **youth** is renewed like the eagle's
 
 <div class="caption">
 (Psalm 103:2-4, ESV)
@@ -106,7 +106,8 @@ so that your **youth** is renewed like the eagle's
 
 ---
 For as high as the **heavens** <br/>
-are above the **earth**, <br/>
+are above the **earth**,
+
 so great is his **steadfast love** <br/>
 toward those who **fear him**;
 
@@ -134,7 +135,7 @@ he remembers that we are **dust**.
 
 ---
 If we consider the unblushing **promises** <br/>
-of reward ... promised in the Gospels,
+of reward ... in the Gospels,
 
 it would seem that our Lord finds <br/>
 our **desires** not too strong, but **too weak**.
@@ -164,7 +165,7 @@ We are far **too easily pleased**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Your **highest joy** <br/> is to **glorify God**
+# Your highest **joy** <br/> is to **glorify** God
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
@@ -241,13 +242,13 @@ I **myself** should be disqualified.
 1. **Friends of the Heart**
 
 ---
-[Pray] at the same time for us as well, <br/>
+[Pray] for us as well, <br/>
 that God will open up to us <br/>
 a **door** for the Word,
 
 so that we may **speak forth** <br/>
 the **mystery** of Christ, <br/>
-for which I have also been **imprisoned**;
+for which I have also been imprisoned;
 
 that I may make it **clear** <br/>
 in the way I ought to **speak**. ...
@@ -331,14 +332,14 @@ I shall not be greatly **shaken**.
 
 ---
 <!-- .slide: data-background="white" -->
-## Your highest joy is to glorify God.
+## Your highest **joy** <br/> is to glorify God.
 <!-- .element: style="text-align:left" -->
 <p>&nbsp;</p>
 
-## Clear your calendar.
-<!-- .element: style="text-align:left" -->
+## **Clear** your calendar.
+<!-- .element: style="text-align:right" -->
 <p>&nbsp;</p>
 
-## Wake up to Christ’s imminent return; <br/> Rest in His care.
+## **Wake up** to Christ’s return; <br/> **Rest** in His care.
 <!-- .element: style="text-align:left" -->
 
