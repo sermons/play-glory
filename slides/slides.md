@@ -143,6 +143,7 @@ he remembers that we are **dust**.
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 If we consider the unblushing **promises** <br/>
 of reward ... in the Gospels,
 
@@ -154,7 +155,7 @@ our **desires** not too strong, but **too weak**. ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
 We are **half-hearted** creatures, <br/>
 fooling about with <br/>
 **drink** and **sex** and **ambition** ...
@@ -166,6 +167,7 @@ when **infinite joy** is offered us, ...
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/flickr-plasticrevolver-228226305-muddy_kid.jpg" -->
 like an **ignorant child** who wants <br/>
 to go on making **mud pies** in a slum
 
@@ -175,7 +177,8 @@ by the offer of a **holiday at sea**.
 We are far **too easily pleased**.
 
 <div class="caption">
-(C.S. Lewis, "The Weight of Glory", 1941, 3/3)
+(C.S. Lewis, "The Weight of Glory", 1941, 3/3) <br/>
+[(img &copy; 2006 David K, CC-BY-SA 2.0)](https://www.flickr.com/photos/plasticrevolver/228226305/)
 </div>
 
 ---
@@ -195,6 +198,7 @@ We are far **too easily pleased**.
 1. **Friends** of the Heart
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8TJbrQGKFyU-hiking.jpg" -->
 **Train** yourself for godliness:
 
 for while **bodily** training is of **some** value, <br/>
