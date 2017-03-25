@@ -64,7 +64,7 @@ I have **called** you by name, <br/>
 you are **mine** ...
 
 <div class="caption">
-(Isaiah 43:1, ESV)
+(Isaiah 43:1, ESV, 1/2)
 </div>
 
 ---
@@ -78,7 +78,7 @@ whom I **created** for my **glory**, <br/>
 whom I **formed** and made.”
 
 <div class="caption">
-(Isaiah 43:5-7, ESV)
+(Isaiah 43:5-7, ESV, 2/2)
 </div>
 
 ---
@@ -88,6 +88,7 @@ whom I **formed** and made.”
 1. **The Highest Joy**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iQWvVYMtv1k-hands.jpg" -->
 **Bless** the Lord, O my soul, <br/>
 and forget not all his **benefits**,
 
@@ -95,21 +96,23 @@ who **forgives** all your iniquity, <br/>
 who **heals** all your diseases, ...
 
 <div class="caption">
-(Psalm 103:2-3, ESV)
+(Psalm 103:2-3, ESV, 1/4)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-OjE4RtaibFc-eagle.jpg" -->
 who **redeems** your life from the pit, <br/>
 who **crowns** you with steadfast love and mercy,
 
 who **satisfies** you with good so that <br/>
-your **youth** is renewed like the eagle's....
+your **youth** is renewed like the eagle's. ...
 
 <div class="caption">
-(Psalm 103:3-4, ESV)
+(Psalm 103:3-4, ESV, 2/4)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 For as high as the **heavens** <br/>
 are above the **earth**,
 
@@ -118,13 +121,14 @@ toward those who **fear him**;
 
 as far as the **east** is from the **west**, <br/>
 so far does he remove <br/>
-our **transgressions** from us.
+our **transgressions** from us. ...
 
 <div class="caption">
-(Psalm 103:11-12, ESV)
+(Psalm 103:11-12, ESV, 3/4)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
 As a **father** shows compassion <br/>
 to his **children**,
 
@@ -135,7 +139,7 @@ For he **knows** our frame; <br/>
 he remembers that we are **dust**.
 
 <div class="caption">
-(Psalm 103:13-14, ESV)
+(Psalm 103:13-14, ESV, 4/4)
 </div>
 
 ---
@@ -143,21 +147,22 @@ If we consider the unblushing **promises** <br/>
 of reward ... in the Gospels,
 
 it would seem that our Lord finds <br/>
-our **desires** not too strong, but **too weak**.
+our **desires** not too strong, but **too weak**. ...
 
 <div class="caption">
-(C.S. Lewis, "The Weight of Glory", 1941)
+(C.S. Lewis, "The Weight of Glory", 1941, 1/3)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 We are **half-hearted** creatures, <br/>
 fooling about with <br/>
 **drink** and **sex** and **ambition** ...
 
-when **infinite joy** is offered us,
+when **infinite joy** is offered us, ...
 
 <div class="caption">
-(C.S. Lewis, "The Weight of Glory", 1941)
+(C.S. Lewis, "The Weight of Glory", 1941, 2/3)
 </div>
 
 ---
@@ -170,7 +175,7 @@ by the offer of a **holiday at sea**.
 We are far **too easily pleased**.
 
 <div class="caption">
-(C.S. Lewis, "The Weight of Glory", 1941)
+(C.S. Lewis, "The Weight of Glory", 1941, 3/3)
 </div>
 
 ---
@@ -199,7 +204,7 @@ as it holds **promise** for the **present** life <br/>
 and also for the life **to come**. ...
 
 <div class="caption">
-(1 Timothy 4:7b-8, ESV)
+(1 Timothy 4:7b-8, ESV, 1/2)
 </div>
 
 ---
@@ -212,7 +217,7 @@ who is the **Savior** of all people, <br/>
 especially of those who **believe**.
 
 <div class="caption">
-(1 Timothy 4:10, ESV)
+(1 Timothy 4:10, ESV, 2/2)
 </div>
 
 ---
@@ -229,7 +234,7 @@ They do it to receive a **perishable** wreath, <br/>
 but we an **imperishable**. ...
 
 <div class="caption">
-(1 Corinthians 9:24-25, ESV)
+(1 Corinthians 9:24-25, ESV, 1/2)
 </div>
 
 ---
@@ -243,7 +248,7 @@ lest after preaching to **others** <br/>
 I **myself** should be disqualified.
 
 <div class="caption">
-(1 Corinthians 9:26-27, ESV)
+(1 Corinthians 9:26-27, ESV, 2/2)
 </div>
 
 ---
@@ -264,7 +269,7 @@ that I may make it **clear** <br/>
 in the way I ought to **speak**. ...
 
 <div class="caption">
-(Colossians 4:3-4, NASB)
+(Colossians 4:3-4, NASB, 1/2)
 </div>
 
 ---
@@ -279,7 +284,7 @@ so that you will know <br/>
 how you should **respond** to each person.
 
 <div class="caption">
-(Colossians 4:5-6, NASB)
+(Colossians 4:5-6, NASB, 2/2)
 </div>
 
 ---
