@@ -49,7 +49,7 @@
 1. Active **Rest**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-4K2lIP0zc_k-child_laugh_bible.jpg" -->
 ## 1. Christian Hedonism
 1. Made for His **Glory**
 1. The Highest **Joy**
@@ -82,7 +82,7 @@ whom I **formed** and made.”
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-4K2lIP0zc_k-child_laugh_bible.jpg" -->
 ## 1. Christian Hedonism
 1. Made for His Glory
 1. **The Highest Joy**
@@ -92,16 +92,21 @@ whom I **formed** and made.”
 and forget not all his **benefits**,
 
 who **forgives** all your iniquity, <br/>
-who **heals** all your diseases,
+who **heals** all your diseases, ...
 
+<div class="caption">
+(Psalm 103:2-3, ESV)
+</div>
+
+---
 who **redeems** your life from the pit, <br/>
 who **crowns** you with steadfast love and mercy,
 
 who **satisfies** you with good so that <br/>
-your **youth** is renewed like the eagle's
+your **youth** is renewed like the eagle's....
 
 <div class="caption">
-(Psalm 103:2-4, ESV)
+(Psalm 103:3-4, ESV)
 </div>
 
 ---
@@ -140,17 +145,22 @@ of reward ... in the Gospels,
 it would seem that our Lord finds <br/>
 our **desires** not too strong, but **too weak**.
 
+<div class="caption">
+(C.S. Lewis, "The Weight of Glory", 1941)
+</div>
+
+---
 We are **half-hearted** creatures, <br/>
 fooling about with <br/>
 **drink** and **sex** and **ambition** ...
+
+when **infinite joy** is offered us,
 
 <div class="caption">
 (C.S. Lewis, "The Weight of Glory", 1941)
 </div>
 
 ---
-when **infinite joy** is offered us,
-
 like an **ignorant child** who wants <br/>
 to go on making **mud pies** in a slum
 
