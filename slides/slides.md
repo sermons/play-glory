@@ -333,6 +333,20 @@ but let us be **alert** and **sober**.
 1. **Rest, for the Sabbath is Coming**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
+**Come** to Me,  <br/>
+all who are **weary** and heavy-laden, <br/>
+and I will give you **rest**.
+
+Take My **yoke** upon you and **learn** from Me, <br/>
+for I am **gentle** and **humble** in heart,
+
+and you will find **rest** for your souls.
+
+>>>
+30 For My yoke is easy and My burden is light.
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 So then, there remains <br/>
 a **Sabbath rest** for the people of God,
