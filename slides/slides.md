@@ -6,7 +6,10 @@
 + 2-week topical series:
   + Christian perspective on **work**
   + Perspective on **leisure**
-+ **Review** last time:
++ **what** leisure time? 
+  + **suffering** as currency: one-up
++ proper attitude to **work**:
+  + **review** last time:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
@@ -41,6 +44,11 @@
 ## **Wake up** to Christ’s return; <br/> **Rest** in His care.
 <!-- .element: style="text-align:left" -->
 
+>>>
++ for **working**
++ for **students**
++ for **retired**
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
 ## Play for the Glory of God
@@ -53,6 +61,10 @@
 ## 1. Christian Hedonism
 1. Made for His **Glory**
 1. The Highest **Joy**
+
+>>>
++ hedonism: pursuit of **pleasure**
++ 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xEy9QNUCdRI-potter.jpg" -->
