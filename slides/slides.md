@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
 # Play for the <br/> Glory of God
 ## Matthew 11:28-30
 
@@ -42,7 +42,7 @@
 <!-- .element: style="text-align:left" -->
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
 ## Play for the Glory of God
 1. Christian **Hedonism**
 1. Calendar **Zero**
@@ -55,6 +55,7 @@
 1. The Highest **Joy**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xEy9QNUCdRI-potter.jpg" -->
 But now thus says the LORD, <br/>
 he who **created** you, O Jacob, <br/>
 he who **formed** you, O Israel:
@@ -68,6 +69,7 @@ you are **mine** ...
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
 Fear not, for I am **with** you; I will ...
 
 Bring my **sons** from afar and <br/>
@@ -186,13 +188,14 @@ We are far **too easily pleased**.
 # Your highest **joy** <br/> is to **glorify** God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
 ## Play for the Glory of God
 1. Christian Hedonism
 1. **Calendar Zero**
 1. Active Rest
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
 ## 2. Calendar Zero
 1. **Exercise** is of Some Value
 1. **Friends** of the Heart
@@ -212,6 +215,7 @@ and also for the life **to come**. ...
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 For to this end we **toil** and **strive**:
 
 because we have our **hope** set <br/>
@@ -225,6 +229,7 @@ especially of those who **believe**.
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ttbCwN_mWic-running.jpg" -->
 Do you not know that in a **race** <br/>
 all the runners **run**, <br/>
 but only one receives the **prize**?
@@ -242,6 +247,7 @@ but we an **imperishable**. ...
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Apj4nSemkzk-running_feet.jpg" -->
 So I do not run **aimlessly**; <br/>
 I do not box as one beating the **air**.
 
@@ -256,11 +262,13 @@ I **myself** should be disqualified.
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
 ## 2. Calendar Zero
 1. Exercise is of Some Value
 1. **Friends of the Heart**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Y05TMi8ZFHA-blue_door.jpg" -->
 [Pray] for us as well, <br/>
 that God will open up to us <br/>
 a **door** for the Word,
@@ -277,6 +285,7 @@ in the way I ought to **speak**. ...
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Y05TMi8ZFHA-blue_door.jpg" -->
 Conduct yourselves <br/>
 with **wisdom** toward outsiders, <br/>
 making the most of the **opportunity**.
@@ -292,7 +301,7 @@ how you should **respond** to each person.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
 ## Play for the Glory of God
 1. Christian Hedonism
 1. Calendar Zero
