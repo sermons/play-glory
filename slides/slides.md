@@ -308,11 +308,13 @@ how you should **respond** to each person.
 1. **Active Rest**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 ## 3. Active Rest
 1. **Awake**, for the **Night** is Coming
 1. **Rest**, for the **Sabbath** is Coming
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 For you are all **sons of light** and sons of day.
 
 We are not of **night** nor of darkness; <br/>
@@ -325,11 +327,13 @@ but let us be **alert** and **sober**.
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 ## 3. Active Rest
 1. Awake, for the Night is Coming
 1. **Rest, for the Sabbath is Coming**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
 So then, there remains <br/>
 a **Sabbath rest** for the people of God,
 
@@ -346,6 +350,7 @@ by the same sort of **disobedience**.
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 For God **alone** my soul **waits** in silence; <br/>
 from him comes my **salvation**.
 
