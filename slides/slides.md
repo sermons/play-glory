@@ -94,8 +94,8 @@ whom I **formed** and made.”
 **Bless** the Lord, O my soul, <br/>
 and forget not all his **benefits**,
 
-who **forgives** all your iniquity, <br/>
-who **heals** all your diseases, ...
+who forgives all your **iniquity**, <br/>
+who heals all your **diseases**, ...
 
 <div class="caption">
 (Psalm 103:2-3, ESV, 1/4)
@@ -103,8 +103,8 @@ who **heals** all your diseases, ...
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-OjE4RtaibFc-eagle.jpg" -->
-who **redeems** your life from the pit, <br/>
-who **crowns** you with steadfast love and mercy,
+who redeems your **life** from the pit, <br/>
+who crowns you with steadfast **love** and **mercy**,
 
 who **satisfies** you with good so that <br/>
 your **youth** is renewed like the eagle's. ...
