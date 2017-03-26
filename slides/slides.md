@@ -12,6 +12,16 @@
   + **review** last time:
 
 ---
+You have made us for **yourself**, O Lord,
+
+and our heart is **restless** <br/>
+until it **rests** in you.
+
+<div class="caption">
+Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)
+</div>
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
 ## Work for the Glory of God
 1. Aspire to be a **fool**, not a professional
