@@ -42,15 +42,12 @@ until it **rests** in you.
 ---
 <!-- .slide: data-background="white" -->
 ## Your highest **joy** <br/> is to glorify God.
-<!-- .element: style="text-align:left" -->
 <p>&nbsp;</p>
 
 ## **Clear** your calendar.
-<!-- .element: style="text-align:right" -->
 <p>&nbsp;</p>
 
 ## **Wake up** to Christ’s return; <br/> **Rest** in His care.
-<!-- .element: style="text-align:left" -->
 
 >>>
 + for **working**
@@ -354,13 +351,9 @@ by the same sort of **disobedience**.
 ---
 <!-- .slide: data-background="white" -->
 ## Your highest **joy** <br/> is to glorify God.
-<!-- .element: style="text-align:left" -->
 <p>&nbsp;</p>
 
 ## **Clear** your calendar.
-<!-- .element: style="text-align:right" -->
 <p>&nbsp;</p>
 
 ## **Wake up** to Christ’s return; <br/> **Rest** in His care.
-<!-- .element: style="text-align:left" -->
-
