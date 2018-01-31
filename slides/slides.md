@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
 # Play for the <br/> Glory of God
 ## Matthew 11:28-30
 
@@ -22,7 +22,7 @@ Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 ## Work for the Glory of God
 1. Aspire to be a **fool**, not a professional
 1. Work to train your **heart**
@@ -60,14 +60,14 @@ Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)
 + for **retired**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
 ## Play for the Glory of God
 1. Christian **Hedonism**
 1. Calendar **Zero**
 1. Active **Rest**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-4K2lIP0zc_k-child_laugh_bible.jpg" -->
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
 ## 1. Christian Hedonism
 1. Made for His **Glory**
 1. The Highest **Joy**
@@ -77,7 +77,7 @@ Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)
 + 
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xEy9QNUCdRI-potter.jpg" -->
+<!-- .slide: <%= bg("unsplash-xEy9QNUCdRI-potter.jpg") %> -->
 But now thus says the LORD, <br/>
 he who **created** you, O Jacob, <br/>
 he who **formed** you, O Israel:
@@ -91,7 +91,7 @@ you are **mine** ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
+<!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
 Fear not, for I am **with** you; I will ...
 
 Bring my **sons** from afar and <br/>
@@ -106,13 +106,13 @@ whom I **formed** and made.”
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-4K2lIP0zc_k-child_laugh_bible.jpg" -->
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
 ## 1. Christian Hedonism
 1. Made for His Glory
 1. **The Highest Joy**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iQWvVYMtv1k-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 **Bless** the Lord, O my soul, <br/>
 and forget not all his **benefits**,
 
@@ -124,7 +124,7 @@ who heals all your **diseases**, ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-OjE4RtaibFc-eagle.jpg" -->
+<!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
 who redeems your **life** from the pit, <br/>
 who crowns you with steadfast **love** and **mercy**,
 
@@ -136,7 +136,7 @@ your **youth** is renewed like the eagle's. ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 For as high as the **heavens** <br/>
 are above the **earth**,
 
@@ -152,7 +152,7 @@ our **transgressions** from us. ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
+<!-- .slide: <%= bg("unsplash-1DkWWN1dr-s-father_son_beach.jpg") %> -->
 As a **father** shows compassion <br/>
 to his **children**,
 
@@ -167,7 +167,7 @@ he remembers that we are **dust**.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 If we consider the unblushing **promises** <br/>
 of reward ... in the Gospels,
 
@@ -179,7 +179,7 @@ our **desires** not too strong, but **too weak**. ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
+<!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
 We are **half-hearted** creatures, <br/>
 fooling about with <br/>
 **drink** and **sex** and **ambition** ...
@@ -191,7 +191,7 @@ when **infinite joy** is offered us, ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/flickr-plasticrevolver-228226305-muddy_kid.jpg" -->
+<!-- .slide: <%= bg("flickr-plasticrevolver-228226305-muddy_kid.jpg") %> -->
 like an **ignorant child** who wants <br/>
 to go on making **mud pies** in a slum
 
@@ -210,20 +210,20 @@ We are far **too easily pleased**.
 # Your highest **joy** <br/> is to **glorify** God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
 ## Play for the Glory of God
 1. Christian Hedonism
 1. **Calendar Zero**
 1. Active Rest
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
 ## 2. Calendar Zero
 1. **Exercise** is of Some Value
 1. **Friends** of the Heart
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8TJbrQGKFyU-hiking.jpg" -->
+<!-- .slide: <%= bg("unsplash-8TJbrQGKFyU-hiking.jpg") %> -->
 **Train** yourself for godliness:
 
 for while **bodily** training is of **some** value, <br/>
@@ -237,7 +237,7 @@ and also for the life **to come**. ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 For to this end we **toil** and **strive**:
 
 because we have our **hope** set <br/>
@@ -251,7 +251,7 @@ especially of those who **believe**.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ttbCwN_mWic-running.jpg" -->
+<!-- .slide: <%= bg("unsplash-ttbCwN_mWic-running.jpg") %> -->
 Do you not know that in a **race** <br/>
 all the runners **run**, <br/>
 but only one receives the **prize**?
@@ -269,7 +269,7 @@ but we an **imperishable**. ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Apj4nSemkzk-running_feet.jpg" -->
+<!-- .slide: <%= bg("unsplash-Apj4nSemkzk-running_feet.jpg") %> -->
 So I do not run **aimlessly**; <br/>
 I do not box as one beating the **air**.
 
@@ -284,13 +284,13 @@ I **myself** should be disqualified.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
 ## 2. Calendar Zero
 1. Exercise is of Some Value
 1. **Friends of the Heart**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Y05TMi8ZFHA-blue_door.jpg" -->
+<!-- .slide: <%= bg("unsplash-Y05TMi8ZFHA-blue_door.jpg") %> -->
 [Pray] for us as well, <br/>
 that God will open up to us <br/>
 a **door** for the Word,
@@ -307,7 +307,7 @@ in the way I ought to **speak**. ...
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Y05TMi8ZFHA-blue_door.jpg" -->
+<!-- .slide: <%= bg("unsplash-Y05TMi8ZFHA-blue_door.jpg") %> -->
 Conduct yourselves <br/>
 with **wisdom** toward outsiders, <br/>
 making the most of the **opportunity**.
@@ -323,20 +323,20 @@ how you should **respond** to each person.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
 ## Play for the Glory of God
 1. Christian Hedonism
 1. Calendar Zero
 1. **Active Rest**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 ## 3. Active Rest
 1. **Awake**, for the **Night** is Coming
 1. **Rest**, for the **Sabbath** is Coming
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 For you are all **sons of light** and sons of day.
 
 We are not of **night** nor of darkness; <br/>
@@ -349,13 +349,13 @@ but let us be **alert** and **sober**.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 ## 3. Active Rest
 1. Awake, for the Night is Coming
 1. **Rest, for the Sabbath is Coming**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ca6lJ_pUtFc-stanley_park.jpg" -->
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> -->
 **Come** to Me,  <br/>
 all who are **weary** and heavy-laden, <br/>
 and I will give you **rest**.
@@ -369,7 +369,7 @@ and you will find **rest** for your souls.
 30 For My yoke is easy and My burden is light.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 So then, there remains <br/>
 a **Sabbath rest** for the people of God,
 
