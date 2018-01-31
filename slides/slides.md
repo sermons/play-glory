@@ -17,9 +17,7 @@ You have made us for **yourself**, O Lord,
 and our heart is **restless** <br/>
 until it **rests** in you.
 
-<div class="caption">
-Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)
-</div>
+[Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
@@ -86,9 +84,7 @@ he who **formed** you, O Israel:
 I have **called** you by name, <br/>
 you are **mine** ...
 
-<div class="caption">
-(Isaiah 43:1, ESV, 1/2)
-</div>
+[Isaiah 43:1 (ESV) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
@@ -101,9 +97,7 @@ everyone who is **called** by my **Name**, <br/>
 whom I **created** for my **glory**, <br/>
 whom I **formed** and made.”
 
-<div class="caption">
-(Isaiah 43:5-7, ESV, 2/2)
-</div>
+[Isaiah 43:5-7 (ESV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
@@ -119,9 +113,7 @@ and forget not all his **benefits**,
 who forgives all your **iniquity**, <br/>
 who heals all your **diseases**, ...
 
-<div class="caption">
-(Psalm 103:2-3, ESV, 1/4)
-</div>
+[Psalm 103:2-3 (ESV) (p.1/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
@@ -131,9 +123,7 @@ who crowns you with steadfast **love** and **mercy**,
 who **satisfies** you with good so that <br/>
 your **youth** is renewed like the eagle's. ...
 
-<div class="caption">
-(Psalm 103:3-4, ESV, 2/4)
-</div>
+[Psalm 103:3-4 (ESV) (p.2/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
@@ -147,9 +137,7 @@ as far as the **east** is from the **west**, <br/>
 so far does he remove <br/>
 our **transgressions** from us. ...
 
-<div class="caption">
-(Psalm 103:11-12, ESV, 3/4)
-</div>
+[Psalm 103:11-12 (ESV) (p.3/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-1DkWWN1dr-s-father_son_beach.jpg") %> -->
@@ -162,9 +150,7 @@ to those who **fear him**.
 For he **knows** our frame; <br/>
 he remembers that we are **dust**.
 
-<div class="caption">
-(Psalm 103:13-14, ESV, 4/4)
-</div>
+[Psalm 103:13-14 (ESV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
@@ -174,9 +160,7 @@ of reward ... in the Gospels,
 it would seem that our Lord finds <br/>
 our **desires** not too strong, but **too weak**. ...
 
-<div class="caption">
-(C.S. Lewis, "The Weight of Glory", 1941, 1/3)
-</div>
+[C.S. Lewis, "The Weight of Glory", 1941 (p.1/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
@@ -186,9 +170,7 @@ fooling about with <br/>
 
 when **infinite joy** is offered us, ...
 
-<div class="caption">
-(C.S. Lewis, "The Weight of Glory", 1941, 2/3)
-</div>
+[C.S. Lewis, "The Weight of Glory", 1941 (p.2/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("flickr-plasticrevolver-228226305-muddy_kid.jpg") %> -->
@@ -200,10 +182,8 @@ by the offer of a **holiday at sea**.
 
 We are far **too easily pleased**.
 
-<div class="caption">
-(C.S. Lewis, "The Weight of Glory", 1941, 3/3) <br/>
-[(img &copy; 2006 David K, CC-BY-SA 2.0)](https://www.flickr.com/photos/plasticrevolver/228226305/)
-</div>
+[C.S. Lewis, "The Weight of Glory", 1941 (p.3/3)](# "ref")
+[&copy; 2006 David K, CC-BY-SA 2.0](https://www.flickr.com/photos/plasticrevolver/228226305/ "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -232,9 +212,7 @@ for while **bodily** training is of **some** value, <br/>
 as it holds **promise** for the **present** life <br/>
 and also for the life **to come**. ...
 
-<div class="caption">
-(1 Timothy 4:7b-8, ESV, 1/2)
-</div>
+[1 Timothy 4:7b-8 (ESV) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
@@ -246,9 +224,7 @@ on the **living God**,
 who is the **Savior** of all people, <br/>
 especially of those who **believe**.
 
-<div class="caption">
-(1 Timothy 4:10, ESV, 2/2)
-</div>
+[1 Timothy 4:10 (ESV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-ttbCwN_mWic-running.jpg") %> -->
@@ -264,9 +240,7 @@ Every **athlete** exercises <br/>
 They do it to receive a **perishable** wreath, <br/>
 but we an **imperishable**. ...
 
-<div class="caption">
-(1 Corinthians 9:24-25, ESV, 1/2)
-</div>
+[1 Corinthians 9:24-25 (ESV) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Apj4nSemkzk-running_feet.jpg") %> -->
@@ -279,9 +253,7 @@ and keep it under **control**,
 lest after preaching to **others** <br/>
 I **myself** should be disqualified.
 
-<div class="caption">
-(1 Corinthians 9:26-27, ESV, 2/2)
-</div>
+[1 Corinthians 9:26-27 (ESV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
@@ -302,9 +274,7 @@ for which I have also been imprisoned;
 that I may make it **clear** <br/>
 in the way I ought to **speak**. ...
 
-<div class="caption">
-(Colossians 4:3-4, NASB, 1/2)
-</div>
+[Colossians 4:3-4 (NASB) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Y05TMi8ZFHA-blue_door.jpg") %> -->
@@ -318,9 +288,7 @@ as though **seasoned** with salt,
 so that you will know <br/>
 how you should **respond** to each person.
 
-<div class="caption">
-(Colossians 4:5-6, NASB, 2/2)
-</div>
+[Colossians 4:5-6 (NASB) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
@@ -344,9 +312,7 @@ so then let us not **sleep** as others do,
 
 but let us be **alert** and **sober**.
 
-<div class="caption">
-(1 Thessalonians 5:5-6, NASB)
-</div>
+[1 Thessalonians 5:5-6 (NASB)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
@@ -365,6 +331,8 @@ for I am **gentle** and **humble** in heart,
 
 and you will find **rest** for your souls.
 
+[Matthew 11:27-29 (ESV)](# "ref")
+
 >>>
 30 For My yoke is easy and My burden is light.
 
@@ -381,9 +349,7 @@ Let us therefore **strive** to enter that rest, <br/>
 so that no one may **fall** <br/>
 by the same sort of **disobedience**.
 
-<div class="caption">
-(Hebrews 4:9-11, ESV)
-</div>
+[Hebrews 4:9-11 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
