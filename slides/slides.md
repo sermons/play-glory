@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> id="title" -->
 # Play for the <br/> Glory of God
 ## Matthew 11:28-30
 
@@ -6,18 +6,10 @@
 + 2-week topical series:
   + Christian perspective on **work**
   + Perspective on **leisure**
-+ **what** leisure time? 
++ **what** leisure time?
   + **suffering** as currency: one-up
 + proper attitude to **work**:
   + **review** last time:
-
----
-You have made us for **yourself**, O Lord,
-
-and our heart is **restless** <br/>
-until it **rests** in you.
-
-[Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
@@ -40,6 +32,20 @@ until it **rests** in you.
   + Steadfast because of His **Victory**
 
 ---
+You have made us for **yourself**, O Lord,
+
+and our heart is **restless** <br/>
+until it **rests** in you.
+
+[Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)](# "ref")
+
+>>>
++ first, a reflection:
++ our **purpose** + **identity** are in Christ
++ pursuit of anything **else** leaves us
+  + drained, unfulfilled, **restless**
+
+---
 <!-- .slide: data-background="white" -->
 ## Your highest **joy** <br/> is to glorify God.
 <p>&nbsp;</p>
@@ -55,21 +61,20 @@ until it **rests** in you.
 + for **retired**
 
 ---
-<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> id="outline" class="outline" -->
 ## Play for the Glory of God
 1. Christian **Hedonism**
 1. Calendar **Zero**
 1. Active **Rest**
 
 ---
-<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> class="outline" -->
 ## 1. Christian Hedonism
 1. Made for His **Glory**
 1. The Highest **Joy**
 
 >>>
 + hedonism: pursuit of **pleasure**
-+ 
 
 ---
 <!-- .slide: <%= bg("unsplash-xEy9QNUCdRI-potter.jpg") %> -->
@@ -97,7 +102,7 @@ whom I **formed** and made.”
 [Isaiah 43:5-7 (ESV) (p.2/2)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> class="outline" -->
 ## 1. Christian Hedonism
 1. Made for His Glory
 1. **The Highest Joy**
@@ -187,14 +192,14 @@ We are far **too easily pleased**.
 # Your highest **joy** <br/> is to **glorify** God
 
 ---
-<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> class="outline" -->
 ## Play for the Glory of God
 1. Christian Hedonism
 1. **Calendar Zero**
 1. Active Rest
 
 ---
-<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> class="outline" -->
 ## 2. Calendar Zero
 1. **Exercise** is of Some Value
 1. **Friends** of the Heart
@@ -253,7 +258,7 @@ I **myself** should be disqualified.
 [1 Corinthians 9:26-27 (ESV) (p.2/2)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> class="outline" -->
 ## 2. Calendar Zero
 1. Exercise is of Some Value
 1. **Friends of the Heart**
@@ -288,14 +293,14 @@ how you should **respond** to each person.
 [Colossians 4:5-6 (NASB) (p.2/2)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> class="outline" -->
 ## Play for the Glory of God
 1. Christian Hedonism
 1. Calendar Zero
 1. **Active Rest**
 
 ---
-<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> class="outline" -->
 ## 3. Active Rest
 1. **Awake**, for the **Night** is Coming
 1. **Rest**, for the **Sabbath** is Coming
@@ -312,7 +317,7 @@ but let us be **alert** and **sober**.
 [1 Thessalonians 5:5-6 (NASB)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> class="outline" -->
 ## 3. Active Rest
 1. Awake, for the Night is Coming
 1. **Rest, for the Sabbath is Coming**
