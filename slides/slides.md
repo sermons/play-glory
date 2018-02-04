@@ -32,12 +32,13 @@
   + Steadfast because of His **Victory**
 
 ---
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 You have made us for **yourself**, O Lord,
 
 and our heart is **restless** <br/>
 until it **rests** in you.
 
-[Saint Augustine, *Confessions* (Lib 1,1-2,2.5,5: CSEL 33, 1-5)](# "ref")
+[Saint Augustine, *Confessions* <br> (Lib 1,1-2,2.5,5: CSEL 33, 1-5)](# "ref")
 
 >>>
 + first, a reflection:
