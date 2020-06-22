@@ -1,7 +1,7 @@
 # Play for the Glory of God (2/2)
 ## Matthew 11:28-30
 
-[![Build status](https://travis-ci.org/sermons/work-glory.svg)](https://travis-ci.org/sermons/work-glory)
+[![Build status](https://api.travis-ci.com/sermons/work-glory.svg)](https://travis-ci.com/github/sermons/work-glory)
 [![Node deps](https://david-dm.org/sermons/work-glory.svg)](https://david-dm.org/sermons/work-glory)
 [![Node devDeps](https://david-dm.org/sermons/work-glory/dev-status.svg)](https://david-dm.org/sermons/work-glory?type=dev)
 
